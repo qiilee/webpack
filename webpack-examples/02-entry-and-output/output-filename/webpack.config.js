@@ -8,7 +8,7 @@ module.exports = {
     },
     output: {
         path: path.join(__dirname, 'dist'),
-        filename: '[name]-[chunkhash].js'
+        filename: '[name]-[chunkhash].js' // [name]-[chunkhash].js 添加chunkhash
     },
     devServer: {
         publicPath: "/dist/",
