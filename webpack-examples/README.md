@@ -23,6 +23,8 @@ Executable Webpack demos, still UPDATING!
 
 ## How to run the demo
 
+使用webpack命令打包
+
 1. clone repo & enter the demo directory
 2. npm i
 3. npm start
